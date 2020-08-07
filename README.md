@@ -1,0 +1,2 @@
+# lamzingba
+hospital management project
